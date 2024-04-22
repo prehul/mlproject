@@ -1,0 +1,12 @@
+numpy
+pandas
+python-dotenv
+mysql-connector-python
+pyodbc
+pymysql
+scikit-learn
+seaborn
+# catboost
+# xgboost
+# mlflow
+# -e .
