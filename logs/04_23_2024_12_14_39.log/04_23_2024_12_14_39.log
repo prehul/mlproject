@@ -1,0 +1,8 @@
+[ 2024-04-23 12:14:40,879 ] 12 root - INFO - The execution has started
+[ 2024-04-23 12:14:40,883 ] 27 root - INFO - Reading completed mysql database
+[ 2024-04-23 12:14:40,892 ] 36 root - INFO - Data Ingestion is completed
+[ 2024-04-23 12:14:40,909 ] 72 root - INFO - Reading the train and test file
+[ 2024-04-23 12:14:40,909 ] 51 root - INFO - Categorical Columns:['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2024-04-23 12:14:40,909 ] 52 root - INFO - Numerical Columns:['writing_score', 'reading_score']
+[ 2024-04-23 12:14:40,910 ] 89 root - INFO - Applying Preprocessing on training and test dataframe
+[ 2024-04-23 12:14:40,926 ] 100 root - INFO - Saved preprocessing object
